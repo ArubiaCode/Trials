@@ -1,2 +1,2 @@
 #first line sample
-Hi every,working with Git is fun
+Hi everyone,working with Git is fun!!!
